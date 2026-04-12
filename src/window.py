@@ -83,7 +83,7 @@ class CoulrWindow(Adw.ApplicationWindow):
         header_bar.pack_start(self.button_picker)
 
         # Main wrappers
-        main_box = Gtk.Box(orientation=Gtk.Orientation.HORIZONTAL, spacing=10)
+        main_box = Gtk.Box(orientation=Gtk.Orientation.HORIZONTAL, spacing=30)
         main_box.set_name("main-box")
 
         layout1 = Gtk.Grid(row_spacing=30, column_spacing=10)
