@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [2.3.1] - 2026-04-12
+- GNOME Runtime 50
+
 ## [2.3.0] - 2026-02-23
 - Mobile support
 - Fix some meson deprecations
